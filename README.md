@@ -1,4 +1,6 @@
 ## This repository is now considered legacy and no longer supported. It has been replaced with our latest Form Builder and Renderer @ https://github.com/formio/formio.js and Angular libraries @ https://github.com/formio/angular.
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fraesuarez%2FngFormBuilderTEST.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fraesuarez%2FngFormBuilderTEST?ref=badge_shield)
+
 
 ## Please take a look at our recent repositories and help documentation at the following links.
  - https://help.form.io
@@ -66,3 +68,7 @@ To remove default components or groups from the form builder, set them as disabl
 Form.io
 ==============
 This project is provided by [Form.io](https://form.io), which is a combined form and API platform for Developers.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fraesuarez%2FngFormBuilderTEST.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fraesuarez%2FngFormBuilderTEST?ref=badge_large)
